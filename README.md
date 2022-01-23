@@ -50,3 +50,4 @@ Kubernetes The Hard Way guides you through bootstrapping a highly available Kube
 * [E2E Test](docs/16-e2e-tests.md)
 * [Extra - Dynamic Kubelet Configuration](docs/17-extra-dynamic-kubelet-configuration.md)
 * [Extra - Certificate Verification](docs/verify-certificates.md)
+# kubernetes-the-hard-way
